@@ -31,7 +31,7 @@ The project focuses on the following analytical tasks:
 •	GROUP BY vs PARTITION BY
 •	Aggregate functions with ordering
 # SQL Queries and Analysis:
-[View Advanced SQL Query Script](EdtTech-Advanced-SQL-Query.sql)
+[View Advanced SQL Query Script](EdTech-Advanced-SQL-Query.sql)
 # Execution and Output: 
 ![]()
 9. Key Insights Derived from Analysis
